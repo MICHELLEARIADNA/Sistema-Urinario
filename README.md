@@ -21,5 +21,7 @@ En la insuficiencia renal aguda, esta función se ve interrumpida de forma súbi
 Referencias
 
 [1]Díaz de León-Ponce, M. A., et al. (2017). Insuficiencia renal aguda (IRA): clasificación, fisiopatología y tratamiento. Revista Mexicana de Anestesiología, 40(4), 281–287. 
+
 [2]Cun.es. (s.f.). Insuficiencia renal aguda: síntomas, diagnóstico y tratamiento. Clínica Universidad de Navarra. 
+
 [3]Dorf, R. C., & Bishop, R. H. (2021). Modern control systems (14th ed.). Pearson. (Para teoría y aplicación de controladores PID)
