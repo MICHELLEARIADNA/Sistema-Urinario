@@ -14,7 +14,7 @@ Diseñar un controlador que permita formular un protocolo de tratamiento para qu
 Descripcion del sistema
 
 La insuficiencia renal aguda (IRA) ocurre cuando los riñones dejan de filtrar eficazmente los desechos y el exceso de líquidos de la sangre, provocando una acumulación rápida de sustancias tóxicas en el organismo. 
-Bajo condiciones normales, el sistema urinario —formado por los riñones, uréteres, vejiga y uretra— mantiene el equilibrio hidroelectrolítico del cuerpo y elimina desechos metabólicos mediante la producción de orina.
+Bajo condiciones normales, el sistema urinario formado por los riñones, uréteres, vejiga y uretra mantiene el equilibrio hidroelectrolítico del cuerpo y elimina desechos metabólicos mediante la producción de orina.
 La sangre llega a cada riñón a través de la arteria renal, la cual se ramifica y forma una red de capilares llamada glomérulo, donde ocurre la filtración. Esta sangre contiene oxígeno, nutrientes y sustancias de desecho. El glomérulo filtra grandes volúmenes de plasma, y el filtrado fluye a través de los túbulos renales, donde se reabsorben el agua y los solutos necesarios, mientras que lo restante se convierte en orina.
 En la insuficiencia renal aguda, esta función se ve interrumpida de forma súbita. Puede deberse a una caída severa en el flujo sanguíneo renal (por ejemplo, por deshidratación o hemorragia), daño directo al tejido renal (por toxinas o infecciones) o una obstrucción en las vías urinarias que impide la eliminación normal de la orina. Esta interrupción reduce drásticamente la tasa de filtración glomerular, generando acumulación de urea, creatinina y potasio en sangre.
 
