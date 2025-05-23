@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sistema Urinario
+message: Proyecto Final
+type: software
+authors:
+  - given-names: Michelle
+    family-names: Zamora
+    email: l22210432@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+  - given-names: Mariana
+    family-names: Rivera
+    email: l22210427@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+abstract: |-
+  Sistema Urinario 
+  Insuficiencia Renal Aguda
+keywords:
+  - Sistema Urinario
+  - Insuficiencia Renal Aguda
+  - Riñones
+  - Vejiga
+license: BSD-2-Clause
+date-released: '2025-05-23'
